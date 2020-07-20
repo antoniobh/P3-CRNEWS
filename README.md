@@ -1,1 +1,2 @@
-# P3-CRNEWS
+# CrNews
+Tarea de Programacion 3
